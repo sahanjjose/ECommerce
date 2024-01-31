@@ -1,11 +1,9 @@
-Certainly! Here's a sample README.md for your Django auction site project:
-
 ```markdown
-# Django Auction Site
+# ECommerce
 
-Welcome to the Django Auction Site! This web application allows users to create, bid on, and manage auction listings. Below, you'll find instructions on how to set up and run the project.
+Welcome to ECommerce the Django based Auction Site! This web application allows users to create, bid on, and manage auction listings. Below, you'll find instructions on how to set up and run the project.
 
-Created - 17th August, 2020. Publicly Availaible - 31st January, 2024.
+Created - 17th August, 2020. Publicly Available - 31st January, 2024.
 
 ## Installation
 
@@ -91,4 +89,3 @@ Feel free to customize the CSS in `auctions/templates/auctions/layout.html` to g
 This project is licensed under the [MIT License](LICENSE).
 
 Happy auctioning!
-```
